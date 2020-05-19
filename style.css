@@ -1,0 +1,48 @@
+body{
+background-color: grey;
+margin: 0; 
+padding: 0;    
+}
+
+.navbar{
+    position: relative;
+    align-items: center;
+}
+.navbar-brand {
+    display: inline-block;
+}
+
+.container {
+
+    width: 100%;
+    height: 100%;
+    display: block;
+    
+}
+
+/* #main {
+} */
+
+.city-and-date{
+    display: inline-flex;
+}
+
+/* .col-lg-8 {
+
+    border: 5px solid black;
+    background-color: lightblue;
+
+} */
+
+.new-city-p, .col-lg-8{
+    border: 1px solid black;
+    background-color:whitesmoke;
+}
+
+#day1, #day2, #day3, #day4, #day5 {
+    padding-left: 2%;
+    padding-right: 2%;
+    border: 1px solid black;
+    background-color:whitesmoke;
+}
+
